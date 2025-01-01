@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "2349131586153"
+global.pairingNumber = "2348103988561"
 
-global.botNumber = ["2349131586153"]
+global.botNumber = ["2348103988561"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -18,7 +18,7 @@ global.antidelete = false
 global.autotyping = false
 global.autoBio = false
 global.antiSpam = true
-global.sign = "☃️❄️"
+global.sign = "☃️🌚❄️"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 global.bankname = "BLUE"
