@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "4407307385652"
+global.pairingNumber = "2349131586153"
 
-global.botNumber = ["4407307385652"]
+global.botNumber = ["2349131586153"]
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -16,7 +16,7 @@ global.public = true
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "☃️❄️"
 // ☞ ➻ ➽ ☛ 〆 
@@ -28,20 +28,20 @@ global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒Xbeast tech"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽XBeast Tech"
+global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍x beast tech"
+global.syt = 'https://whatsapp.com/channel/0029VatsyR7IyPtMQur3x62Q'
+global.sgc = 'https://whatsapp.com/channel/0029VatsyR7IyPtMQur3x62Q'
+global.sig = 'https://whatsapp.com/channel/0029VatsyR7IyPtMQur3x62Q'
+global.web = 'https://whatsapp.com/channel/0029VatsyR7IyPtMQur3x62Q'
 //setbot
 global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
 global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '❄️'
+global.themeemoji = '❄️❤️'
 global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBBpaPJdt2V0Hab-7vJjlwr2NInRZ0hb6nA&usqp=CAU",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KpekxrXL95vx4t9Ur6n4NRxxcrLAZWE-mA&usqp=CAU"]
