@@ -20,8 +20,8 @@ global.antiSpam = true
 global.sign = "☃️🌚❄️"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bankname = "BEAST"
+global.accnumber = "9034661539"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
